@@ -1,8 +1,8 @@
 
 Amazon EC2 setup
-Elapsed time : 26 Hours
-   2024/10/13 00:38 GMT-4 RunInstances 
-   2024/10/14 02:17 GMT-4StopInstances 
+Elapsed time : 27 Hours
+   -- 2024/10/13 00:38 GMT-4 RunInstances 
+   -- 2024/10/14 02:17 GMT-4StopInstances 
 
 - MFA multifactor auth using google authenticate
 - How to upgrade CPU ?
