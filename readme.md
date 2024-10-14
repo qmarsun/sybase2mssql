@@ -16,6 +16,8 @@ MS SQL Managment studio
 Sybase for Windows
 MS SQL Migration 
   https://learn.microsoft.com/en-us/sql/ssma/sybase/sql-server-migration-assistant-for-sybase-sybasetosql?view=sql-server-ver16&f1url=%3FappId%3DDev15IDEF1%26l%3Den-US%26k%3Dk(ssma.sybase.general.f1)
+
+Create schema migrate both table and stored proc 
   
 ![image](https://github.com/user-attachments/assets/70ec0122-6fd8-46ce-aa53-613716fe0893)
 
