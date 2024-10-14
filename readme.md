@@ -1,7 +1,16 @@
 
 Amazon EC2 setup
 
-download the following 
+- MFA multifactor auth using google authenticate
+- How to upgrade CPU ?
+    started with 1 CPU then latter switched to 4 CPU
+- How to extend the storage 30 GB to 100 GB from amazon storage
+    disk utilty to extend 
+- Inside widows ODBC setup
+- Server (hostname) , services (MSSQL server), DB ( datbase) , port, Username and password
+
+
+Download the following 
 MS SQL server
 MS SQL Managment studio
 Sybase for Windows
