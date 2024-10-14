@@ -4,7 +4,7 @@ Elapsed time : 27 Hours
    -- 2024/10/13 00:38 GMT-4 RunInstances 
    -- 2024/10/14 02:17 GMT-4StopInstances 
 
-- MFA multifactor auth using google authenticate
+- MFA multifactor auth using google authenticate to chrome extension
 - How to upgrade CPU ?
     started with 1 CPU then latter switched to 4 CPU
 - How to extend the storage 30 GB to 100 GB from amazon storage
