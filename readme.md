@@ -1,5 +1,5 @@
 
-AMS setup EC2
+Amazon EC2 setup
 
 download the following 
 MS SQL server
