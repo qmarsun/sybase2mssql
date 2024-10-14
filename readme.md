@@ -1,6 +1,16 @@
 
 AMS setup EC2
 
+download the following 
+MS SQL server
+MS SQL Managment studio
+Sybase for Windows
+MS SQL Migration 
+  https://learn.microsoft.com/en-us/sql/ssma/sybase/sql-server-migration-assistant-for-sybase-sybasetosql?view=sql-server-ver16&f1url=%3FappId%3DDev15IDEF1%26l%3Den-US%26k%3Dk(ssma.sybase.general.f1)
+  
+![image](https://github.com/user-attachments/assets/70ec0122-6fd8-46ce-aa53-613716fe0893)
+
+
 Windows server 
 ![image](https://github.com/user-attachments/assets/c30dd2ac-24f6-41c8-8de3-e1564d8c6115)
 
