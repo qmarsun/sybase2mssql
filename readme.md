@@ -1,4 +1,9 @@
 
+AMS setup EC2
+
+Windows server 
+![image](https://github.com/user-attachments/assets/c30dd2ac-24f6-41c8-8de3-e1564d8c6115)
+
 
 Sybase server
 ![image](https://github.com/user-attachments/assets/6434b20d-f00b-4aed-90fb-e892afe3c6c6)
