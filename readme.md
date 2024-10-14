@@ -8,8 +8,8 @@ Amazon EC2 setup
     disk utilty to extend 
 - Inside widows ODBC setup
 - Server (hostname) , services (MSSQL server), DB ( datbase) , port, Username and password
-
-
+- while connecting RDP -- download rdp file and keypair1.pem file from aws instance get the password
+  
 Download the following 
 MS SQL server
 MS SQL Managment studio
