@@ -1,5 +1,8 @@
 
 Amazon EC2 setup
+Elapsed time : 26 Hours
+   2024/10/13 00:38 GMT-4 RunInstances 
+   2024/10/14 02:17 GMT-4StopInstances 
 
 - MFA multifactor auth using google authenticate
 - How to upgrade CPU ?
@@ -16,6 +19,8 @@ MS SQL Managment studio
 Sybase for Windows
 MS SQL Migration 
   https://learn.microsoft.com/en-us/sql/ssma/sybase/sql-server-migration-assistant-for-sybase-sybasetosql?view=sql-server-ver16&f1url=%3FappId%3DDev15IDEF1%26l%3Den-US%26k%3Dk(ssma.sybase.general.f1)
+
+AWS - Region, Zones, Instances, Resources ( Instances EC2-H/W and S/W , Volumes (Storage)
 
 Create schema migrate both table and stored proc 
   
